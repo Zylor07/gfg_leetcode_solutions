@@ -8,8 +8,8 @@
 String, Stack, Bracket Sequences
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 4 ms
+- **Memory:** 43 MB
 
 ---
 
@@ -26,7 +26,7 @@ An input string is valid if:
 	
 3. Every close bracket has a corresponding open bracket of the same type.
 
-OriginalJava **Example 1:**
+**Example 1:**
 
 **Input:**  s = "()"
 
