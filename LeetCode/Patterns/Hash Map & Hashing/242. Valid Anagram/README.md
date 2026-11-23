@@ -8,8 +8,8 @@
 Hash Table, String, Sorting
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 19 ms
+- **Memory:** 45.9 MB
 
 ---
 
@@ -17,7 +17,7 @@ Hash Table, String, Sorting
 
 Given two strings  `s`  and  `t` , return  `true`  if  `t`  is an anagram of  `s` , and  `false`  otherwise.
 
-OriginalJava **Example 1:**
+**Example 1:**
 
 **Input:**  s = "anagram", t = "nagaram"
 
